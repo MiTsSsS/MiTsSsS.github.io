@@ -1,6 +1,10 @@
 # Rayan Samaha
 rayansamaha4es@gmail.com | Mount-Lebanon, Lebanon | https://www.linkedin.com/in/rayan-samaha/ | https://github.com/MiTsSsS
 
+<a href="cv.pdf" download="Rayan_Samaha_CV.pdf">
+    <button>Download CV (PDF)</button>
+</a>
+
 # Career Objective
 Passionate Software Engineer with six years of professional experience seeking employment in the game development industry where I can utilize my acquired experience and knowledge of software development practices and improve my skillset. I am enthusiastic about programming and love to engage in new endeavors.
 

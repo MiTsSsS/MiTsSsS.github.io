@@ -1,7 +1,7 @@
 # Rayan Samaha
 rayansamaha4es@gmail.com | Mount-Lebanon, Lebanon | https://www.linkedin.com/in/rayan-samaha/ | https://github.com/MiTsSsS
 
-<a href="cv.pdf" download="Rayan_Samaha_CV.pdf">
+<a href="Rayan_Samaha_CV.pdf" download="Rayan_Samaha_CV.pdf">
     <button>Download CV (PDF)</button>
 </a>
 

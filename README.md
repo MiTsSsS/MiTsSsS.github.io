@@ -7,8 +7,9 @@ Passionate Software Engineer with six years of professional experience seeking e
 # Work Experience
 
 ## Game Programmer (Engine / Gameplay / UI / Networking / Backend) 
-### Kongor Studios - *Game: Heroes of Newerth: Reborn*
-#### Jun 2024 – Feb 2026	Remote (Full Time)
+### Kongor Studios
+*Game: Heroes of Newerth: Reborn*
+*Jun 2024 – Feb 2026	Remote (Full Time)*
 
 All of the following was shipped on a live service MOBA with 4,000+ concurrent players
 
@@ -34,8 +35,9 @@ Docker, .NET, gRPC, protobuf, FMOD, HLSL, tracy, SQL
 Git, GitLab
 
 ## Game Programmer - Mid Level (Game / UI / Backend)
-### Kreationware - *Games: Desert Revenant, Desert Revenant 2: The Reawakening*
-#### Jul 2022 – Dec 2025	Remote (Full Time)
+### Kreationware
+*Games: Desert Revenant, Desert Revenant 2: The Reawakening*
+*Jul 2022 – Dec 2025	Remote (Full Time)*
 
 - Optimized CPU and GPU performance by leveraging Unreal Engine 4’s internal profiling suites, significantly reducing resource overhead and enhancing frame-rate stability.
 - Designed an automated text localization and internationalization pipeline, streamlining string extraction and word-count optimization to facilitate global multi-language deployment.
@@ -47,8 +49,9 @@ Git, GitLab
 - Engineered and refactored core gameplay systems to meet design specifications, ensuring high-performance execution, modularity, and architectural scalability.
 
 ## Game Programmer - Junior Level (Game / UI / Backend)
-### Kreationware - *Games: Desert Revenant, Desert Revenant 2: The Reawakening*
-#### Jun 2020 – Jul 2022	Hybrid - Lebanon, Dbayeh (Full Time)
+### Kreationware
+*Games: Desert Revenant, Desert Revenant 2: The Reawakening*
+*Jun 2020 – Jul 2022	Hybrid - Lebanon, Dbayeh (Full Time)*
 
 - Led the end-to-end implementation of a new codebase from initial conceptualization through full deployment; managed the technical roadmap by coordinating team task distribution and cross-functional engineering meetings.
 - Engineered a scalable UI architecture optimized for widget reuse and multi-resolution compatibility, incorporating robust text-processing frameworks to support internationalization and multi-language localization.

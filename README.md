@@ -1,4 +1,4 @@
-# <p style="text-align:center;">Rayan Samaha</p>
+# <p style="text-align: center;">Rayan Samaha</p>
 rayansamaha4es@gmail.com | Mount-Lebanon, Lebanon | https://www.linkedin.com/in/rayan-samaha/ | https://github.com/MiTsSsS
 
 # Career Objective

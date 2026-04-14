@@ -29,7 +29,7 @@ Networking
 - Enabled transmission of large data payloads over the existing network layer by implementing server-side compression and client-side decompression, reducing bandwidth overhead and unlocking new data-heavy features.
 - Implemented a wide variety of network packets across multiple game systems, covering the full lifecycle of each packet from definition and serialization through to server-side handling, client-side processing, and debugging.
 
-Technology used:\
+- Technology used:\
 C++ (11/14/17/20), Lua, C#, XML\
 Docker, .NET, gRPC, protobuf, FMOD, HLSL, tracy, SQL\
 Git, GitLab
@@ -56,7 +56,7 @@ Git, GitLab
 - Led the end-to-end implementation of a new codebase from initial conceptualization through full deployment; managed the technical roadmap by coordinating team task distribution and cross-functional engineering meetings.
 - Engineered a scalable UI architecture optimized for widget reuse and multi-resolution compatibility, incorporating robust text-processing frameworks to support internationalization and multi-language localization.
 
-Technology used:\
+- Technology used:\
 Unreal Engine 4, C++, Blueprints visual scripting, UMG, JavaScript\
 KQL, cron\
 Microsoft PlayFab, Steamworks, Perforce, p4v, Azure\

@@ -40,7 +40,7 @@ Git, GitLab
 
 ## Game Programmer - Mid Level (Game / UI / Backend)
 ### Kreationware
-*Games: Desert Revenant, Desert Revenant 2: The Reawakening*\
+*Games: [Desert Revenant](https://store.steampowered.com/app/1969430/Desert_Revenant/), [Desert Revenant 2: The Reawakening](https://store.steampowered.com/app/4235670/Desert_Revenant_2_The_Reawakening/)*\
 *Jul 2022 – Dec 2025	Remote (Full Time)*
 
 - Optimized CPU and GPU performance by leveraging Unreal Engine 4’s internal profiling suites, significantly reducing resource overhead and enhancing frame-rate stability.
@@ -54,7 +54,7 @@ Git, GitLab
 
 ## Game Programmer - Junior Level (Game / UI / Backend)
 ### Kreationware
-*Games: Desert Revenant, Desert Revenant 2: The Reawakening*\
+*Games: [Desert Revenant](https://store.steampowered.com/app/1969430/Desert_Revenant/), [Desert Revenant 2: The Reawakening](https://store.steampowered.com/app/4235670/Desert_Revenant_2_The_Reawakening/)*\
 *Jun 2020 – Jul 2022	Hybrid - Lebanon, Dbayeh (Full Time)*
 
 - Led the end-to-end implementation of a new codebase from initial conceptualization through full deployment; managed the technical roadmap by coordinating team task distribution and cross-functional engineering meetings.

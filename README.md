@@ -12,7 +12,7 @@ Passionate Software Engineer with six years of professional experience seeking e
 
 ## Game Programmer (Engine / Gameplay / UI / Networking / Backend) 
 ### Kongor Studios
-*Game: Heroes of Newerth: Reborn*\
+*Game: [Heroes of Newerth: Reborn](https://heroesofnewerth.com/)*\
 *Jun 2024 – Feb 2026	Remote (Full Time)*
 
 *All of the following was shipped on a live service MOBA with 4,000+ concurrent players*

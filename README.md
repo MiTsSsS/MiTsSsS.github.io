@@ -11,7 +11,7 @@ Passionate Software Engineer with six years of professional experience seeking e
 *Game: Heroes of Newerth: Reborn*\
 *Jun 2024 – Feb 2026	Remote (Full Time)*
 
-All of the following was shipped on a live service MOBA with 4,000+ concurrent players
+*All of the following was shipped on a live service MOBA with 4,000+ concurrent players*
 
 Engine & Systems Architecture
 - Delivered a 10% improvement in live game server performance by leading a major refactor of a core gameplay system, eliminating latency bottlenecks and stabilizing overall system performance.

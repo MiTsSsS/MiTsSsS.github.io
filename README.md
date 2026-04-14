@@ -1,3 +1,3 @@
 # WIP LANDING PAGE
 
-Meanwhile visit about me section (also WIP but less WIP than landing page 🤝) [CV](https://mitssss.github.io/about/cv.html)
+Meanwhile visit the [about me](https://mitssss.github.io/about/cv.html) section (also WIP but less WIP than landing page 🤝) 

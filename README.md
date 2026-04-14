@@ -61,8 +61,8 @@ Jira, Confluence, Trello, ClickUp
 
 # Education
 ## BS in Computer Science with an emphasis in Game Development
-### American University of Science and Technology
-- Oct 2017 – Feb 2022	Lebanon, Achrafieh
+### American University of Science and Technology (Ashrafieh, Lebanon)
+- Oct 2017 – Feb 2022
 - Graduated with Honors
 - GPA: 3.41/4.0
 

@@ -8,7 +8,7 @@ Passionate Software Engineer with six years of professional experience seeking e
 
 ## Game Programmer (Engine / Gameplay / UI / Networking / Backend) 
 ### Kongor Studios
-*Game: Heroes of Newerth: Reborn*/
+*Game: Heroes of Newerth: Reborn*\
 *Jun 2024 – Feb 2026	Remote (Full Time)*
 
 All of the following was shipped on a live service MOBA with 4,000+ concurrent players
@@ -36,7 +36,7 @@ Git, GitLab
 
 ## Game Programmer - Mid Level (Game / UI / Backend)
 ### Kreationware
-*Games: Desert Revenant, Desert Revenant 2: The Reawakening*/
+*Games: Desert Revenant, Desert Revenant 2: The Reawakening*\
 *Jul 2022 – Dec 2025	Remote (Full Time)*
 
 - Optimized CPU and GPU performance by leveraging Unreal Engine 4’s internal profiling suites, significantly reducing resource overhead and enhancing frame-rate stability.
@@ -50,7 +50,7 @@ Git, GitLab
 
 ## Game Programmer - Junior Level (Game / UI / Backend)
 ### Kreationware
-*Games: Desert Revenant, Desert Revenant 2: The Reawakening*/
+*Games: Desert Revenant, Desert Revenant 2: The Reawakening*\
 *Jun 2020 – Jul 2022	Hybrid - Lebanon, Dbayeh (Full Time)*
 
 - Led the end-to-end implementation of a new codebase from initial conceptualization through full deployment; managed the technical roadmap by coordinating team task distribution and cross-functional engineering meetings.

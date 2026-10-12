@@ -10,7 +10,7 @@ Passionate Software Engineer with six years of professional experience seeking e
 
 # Work Experience
 
-## Game Programmer (Engine / Gameplay / UI / Networking / Backend) 
+## Generalist Game Programmer (Engine / Gameplay / UI / Networking / Backend) 
 ### Kongor Studios
 *Game: [Heroes of Newerth: Reborn](https://heroesofnewerth.com/)*\
 *Jun 2024 – Feb 2026	Remote (Full Time)*
@@ -38,7 +38,7 @@ C++ (11/14/17/20), Lua, C#, XML\
 Docker, .NET, gRPC, protobuf, FMOD, HLSL, tracy, SQL\
 Git, GitLab
 
-## Game Programmer - Mid Level (Game / UI / Backend)
+## Generalist Game Programmer - Mid Level (Game / UI / Backend)
 ### Kreationware
 *Games: [Desert Revenant](https://store.steampowered.com/app/1969430/Desert_Revenant/), [Desert Revenant 2: The Reawakening](https://store.steampowered.com/app/4235670/Desert_Revenant_2_The_Reawakening/)*\
 *Jul 2022 – Dec 2025	Remote (Full Time)*
